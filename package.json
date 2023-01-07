@@ -1,0 +1,24 @@
+{
+  "name": "random-srt-msg-rd",
+  "version": "1.0.0",
+  "description": "Random String Messages from Dominican Republic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darvin1223/random-srt-msg-rd.git"
+  },
+  "keywords": [],
+  "author": "Darvin Rodriguez <darvin.rod10@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darvin1223/random-srt-msg-rd/issues"
+  },
+  "homepage": "https://github.com/Darvin1223/random-srt-msg-rd#readme",
+  "bin":{
+    "random-srt-msg-rd":"./bin/global.js"
+  },
+  "preferGlobal": true
+}
